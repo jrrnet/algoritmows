@@ -1,4 +1,5 @@
-![JRWIKI](http://jrwiki.pe.hu/wp-content/uploads/2016/05/logo.png) (http://jrwiki.pe.hu)
+![JRWIKI](http://jrwiki.pe.hu/wp-content/uploads/2016/05/logo.png) 
+(http://jrwiki.pe.hu)
 
 # Algoritmo Wesley Safadão
 - Algoritmo em HTML5, CSS e PHP.
@@ -6,7 +7,7 @@
 Descrição
 -----------
 
-!(http://jrwiki.pe.hu/ws/img/ws.png)
+![WS](http://jrwiki.pe.hu/ws/img/ws.png)
 
 Com o grande sucesso da musica Aquele 1% (Part. Wesley Safadão) Marcos e Belutti
 Foi criado um algoritmo para calcular quanto você tem de anjo e quando de safadeza.
