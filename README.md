@@ -7,7 +7,7 @@
 Descrição
 -----------
 
-![WS](http://jrwiki.pe.hu/ws/img/ws.png)
+![WS](http://jrwiki.pe.hu/ws/img/print.JPG)
 
 Com o grande sucesso da musica Aquele 1% (Part. Wesley Safadão) Marcos e Belutti
 Foi criado um algoritmo para calcular quanto você tem de anjo e quando de safadeza.
