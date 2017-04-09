@@ -6,11 +6,11 @@
 Descrição
 -----------
 
+(http://jrwiki.pe.hu/ws/img/ws.png)
+
 Com o grande sucesso da musica Aquele 1% (Part. Wesley Safadão) Marcos e Belutti
 Foi criado um algoritmo para calcular quanto você tem de anjo e quando de safadeza.
 Consiste em formulario que recebe do usuario Dia, Mês e Ano a logica calcula e retorna a porcentagem.
-
-[!(http://jrwiki.pe.hu/ws/img/ws.png)]
 
 Estrutura de arquivos e diretorios:
 ---------------------------------------
